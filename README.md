@@ -42,8 +42,6 @@ console.log([me,...aboutMe].join(' '))
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-<br/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,6 +49,7 @@ console.log([me,...aboutMe].join(' '))
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
+
 
 <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=akotonyStark&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
 

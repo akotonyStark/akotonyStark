@@ -23,7 +23,7 @@ let education = "BSc. Computer Science with an MSc in Systems and Software Engin
 let experience = "Close to 5 years experience in developing user friendly web applications, android applications, cloud based solutions,creating intuitive, aesthetically-pleasing, interactive interfaces and Database management."
 
 💻💻
-let skills = "Web and Android app development, UI/UX design,ReactJS NodeJS, MongoDB."
+let skills = "Web and Android app development, UI/UX design,ReactJS, NodeJS, MongoDB,Mongoose."
 
 💻💻💻
 let tools = "Git, VS Code, Visual Studio, Android Studio, XCode, Adobe XD, Microsoft SQL Server Management Studio."

@@ -3,6 +3,7 @@
 <!--
 **akotonyStark/akotonyStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akotonyStark&label=Profile%20views&color=0e75b6&style=flat" alt="CHR-onicles" /> </p>
 
 - 👯 Always willing to collaborate on anything awesome
 - 💬 same handle on my socials 

@@ -56,7 +56,7 @@ console.log([me,...aboutMe].join(' '))
 
 <img align=""  width: '50%' height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akotonyStark&hide_title=false&layout=compact&theme=dracula&count_private=true" />
 
-<img  width: '50%' height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=akotonystark&theme=dracula" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=akotonystark&theme=dracula" />
 <br/>
 
 

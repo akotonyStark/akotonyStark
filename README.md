@@ -40,6 +40,8 @@ aboutMe.push(summary, core_values, education, experience, skills, tools, footNot
 console.log([me,...aboutMe].join(' '))
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;

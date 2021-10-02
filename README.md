@@ -53,8 +53,8 @@ console.log([me,...aboutMe].join(' '))
 <br/>
 
 
-<!-- <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=akotonyStark&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
-<br/> -->
+<img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=akotonyStark&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
+<br/> 
 
 <!-- <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akotonyStark&hide_title=false&layout=compact&theme=dracula&count_private=true" /> -->
 

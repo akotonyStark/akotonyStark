@@ -50,6 +50,7 @@ console.log([me,...aboutMe].join(' '))
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="35px">&nbsp;&nbsp;
 <br/>
 
 <!-- <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=akotonyStark&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>

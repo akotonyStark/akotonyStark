@@ -24,7 +24,7 @@ let education = "BSc. Computer Science with an MSc in Systems and Software Engin
 let experience = "Close to 5 years experience in developing user friendly web applications, android applications, cloud based solutions,creating intuitive, aesthetically-pleasing, interactive interfaces and Database management."
 
 💻💻
-let skills = "Web and Android app development, UI/UX design,ReactJS, ReactNative, NodeJS, MongoDB,Mongoose, SQL"
+let skills = "Web and Android app development, UI/UX design,ReactJS, ReactNative, VueJS, NodeJS, MongoDB,Mongoose, SQL"
 
 💻💻💻
 let tools = "Git, VS Code, Visual Studio, Android Studio, XCode, Adobe XD, Microsoft SQL Server Management Studio."
@@ -42,6 +42,7 @@ console.log([me,...aboutMe].join(' '))
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/vue-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;
